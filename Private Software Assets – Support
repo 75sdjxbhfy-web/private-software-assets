@@ -1,0 +1,48 @@
+This repository serves as the central support and information hub for all applications developed under this account.
+All apps listed below are offline-first, privacy-focused, and designed to work without accounts, servers, or data collection.
+
+⸻
+
+SpendWise
+
+An offline-first spending and decision-evaluation engine.
+Uses a local, deterministic rules engine (no AI, no internet, no tracking) to help users decide whether a purchase is justified based on their own constraints, priorities, and logic.
+
+⸻
+
+PATH
+
+A configurable decision and path-evaluation engine designed for offline use.
+Built for workflows, rule-based logic, and deterministic evaluations inside mobile and desktop applications.
+
+⸻
+
+UniPage
+
+An offline-first single-page notes and workspace application.
+Designed as a flexible personal dashboard that can be adapted for journaling, planning, studying, or productivity use cases.
+
+⸻
+
+MASM32 for macOS (MAssembly 32)
+
+A MASM32-compatible assembly environment built specifically for macOS users.
+Created to support students and developers who are required to use MASM-style assembly while working on macOS, without relying on Windows or virtual machines.
+
+⸻
+
+RuleEngineDSL
+
+A lightweight, deterministic rule-engine and domain-specific language (DSL).
+Designed for embedding decision logic into applications where predictability, offline execution, and transparency are required.
+
+⸻
+
+Support & Contact
+
+This repository is intended for:
+	•	General app information
+	•	Support references
+	•	Documentation pointers
+
+No user data is collected by any application listed here.
